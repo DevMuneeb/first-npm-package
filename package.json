@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@muneeb_dev/my-firstpackage-test",
+  "name": "@style-protocol/my-firstpackage-test1",
   "author": "DevMuneeb",
   "module": "dist/my-firstpackage-test.esm.js",
   "size-limit": [
